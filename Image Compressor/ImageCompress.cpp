@@ -2,9 +2,9 @@
 #include<bitset>
 # define STB_IMAGE_IMPLEMENTATION
 # define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "C:/Users/Rakesh/Desktop/HtmlProjects/DS Lab Work/stb_image/stb_image.h"
-#include "C:/Users/Rakesh/Desktop/HtmlProjects/DS Lab Work/stb_image/stb_image_resize.h"
-#include "C:/Users/Rakesh/Desktop/HtmlProjects/DS Lab Work/stb_image/stb_image_write.h"
+#include "C:/Users/Satvik/Desktop/DS_Project/Image Compressor/stb_image/stb_image.h"
+#include "C:/Users/Satvik/Desktop/DS_Project/Image Compressor/stb_image/stb_image_resize.h"
+#include "C:/Users/Satvik/Desktop/DS_Project/Image Compressor/stb_image/stb_image_write.h"
 using namespace std;   
 
 long int siz=0;

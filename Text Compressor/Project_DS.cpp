@@ -1,3 +1,13 @@
+/*
+DATA STRUCTURES USED IN THE PROJECT: 
+1. Suffix Array
+2. Linked list
+3. Vector
+4. Map
+5. Set
+6. Tree
+7. Queue  */
+
 #include<iostream>
 #include<vector>
 #include<queue>
